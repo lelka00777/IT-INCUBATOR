@@ -1,3 +1,6 @@
+//https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements
+
+
 function orderMyLogic(val) {
   if (val < 5) {
     return "Less than 5";
@@ -9,3 +12,4 @@ function orderMyLogic(val) {
 }
 
 orderMyLogic(7);
+
